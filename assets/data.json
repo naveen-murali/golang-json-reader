@@ -1,0 +1,14 @@
+{
+    "folders": [
+        {
+            "path": "."
+        },
+        {
+            "path": "./read-json"
+        },
+        {
+            "name": "ROOT GO",
+            "path": "../../go"
+        }
+    ]
+}
